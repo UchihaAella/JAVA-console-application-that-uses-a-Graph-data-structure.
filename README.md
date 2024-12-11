@@ -20,3 +20,8 @@ How Does It Contribute?
 
 To Me: Improves skills in Java, graph algorithms, and problem-solving.
 To the Community: Educational tool for learning graph-based analysis..Can be used by small groups or organizations to identify key influencers and understand network dynamics.
+
+
+
+![image](https://github.com/user-attachments/assets/b95fe976-138f-4c29-8f9d-195aadec508e)
+
